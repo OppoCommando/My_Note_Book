@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Note Book</string>
+    <string name="notebook_heading">Are you write any notes</string>
+    <string name="notebook_tag_line">Write anything and Share anything</string>
+
+    <string name="btn_start">Start</string>
 </resources>
