@@ -2,34 +2,24 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true">
         <shape android:shape="rectangle">
-            <corners android:radius="12dp"/>
+            <corners android:radius="15dp"/>
             <stroke android:width="1dp"
                 android:color="@color/app_dark_theme"/>
 
             <gradient android:angle="-90"
+                android:centerX="35%"
                 android:startColor="@color/button_press_start"
-                android:endColor="@color/button_press_end"  />
+                android:endColor="@color/button_press_end"
+                android:type="linear"/>
         </shape>
     </item>
 
-    <item android:state_focused="true">
+
+    <item android:state_pressed="false" >
         <shape android:shape="rectangle"  >
 
-            <corners android:radius="12dip" />
-
-            <stroke android:width="1dip"
-                android:color="@color/app_dark_theme" />
-            <solid android:color="@color/app_light_theme"/>
-
-        </shape>
-    </item>
-
-    <item >
-        <shape android:shape="rectangle"  >
-
-            <corners android:radius="14dp" />
-
-            <stroke android:width="5dp"
+            <corners android:radius="15dp" />
+            <stroke android:width="1dp"
                 android:color="@color/buuton_stroke_color" />
 
             <gradient android:angle="-90"
