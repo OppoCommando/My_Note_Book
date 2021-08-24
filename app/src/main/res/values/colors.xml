@@ -30,4 +30,10 @@
     <color name="buuton_stroke_color">#D3D3D3</color>
     <color name="button_gradient_start">#E5E4E2</color>
     <color name="button_gradient_end">#BCC6CC</color>
+
+
+    <!--Header Gradient Color-->
+    <color name="uc_bg_start_color">#acacac</color>
+    <color name="uc_bg_center_color">#738276</color>
+    <color name="uc_bg_end_color">#536872</color>
 </resources>

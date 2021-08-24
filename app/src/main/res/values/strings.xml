@@ -4,4 +4,6 @@
     <string name="notebook_tag_line">Write anything and Share anything</string>
 
     <string name="btn_start">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
