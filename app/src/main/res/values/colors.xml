@@ -37,10 +37,15 @@
     <color name="uc_bg_center_color">#b2beb5</color>
     <color name="uc_bg_end_color">#bebebe</color>
 
-    <color name="image_border">#3666F4</color>
+    <color name="image_border">#778899</color>
     <color name="profile_name_color">#1C1C1C</color>
     <color name="profile_address_color">#848484</color>
 
-    <color name="credential_body_color">#a9a9a9</color>
+    <color name="credential_body_color">#cfcfc4</color>
     <color name="credential_card_bg">#e5e4e2</color>
+    <color name="text_hint">#a9a9a9</color>
+    <color name="text_color">#778899</color>
+    <color name="edit_bg">#dcdcdc</color>
+    <color name="edit_stroke">#708090</color>
+    <color name="button_bg">#bfc1c2</color>
 </resources>
