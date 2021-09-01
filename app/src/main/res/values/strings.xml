@@ -3,8 +3,9 @@
     <string name="notebook_heading">Are you write any notes</string>
     <string name="notebook_tag_line">Write anything and Share anything</string>
 
-    <string name="btn_start">Start</string>
+    <string name="btn_start">Go To Login</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="swipe_left_for_register">Swipe left for register</string>
+    <string name="swipe_left_for_register">Swipe left for rRegister</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
 </resources>

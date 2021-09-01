@@ -64,7 +64,7 @@
                 android:background="@color/transparent">
 
                 <androidx.appcompat.widget.AppCompatButton
-                    android:id="@+id/login_btn"
+                    android:id="@+id/next_btn"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/rounded_rectangle"
