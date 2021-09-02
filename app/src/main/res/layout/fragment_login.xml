@@ -48,9 +48,9 @@
                             android:layout_marginBottom="10dp"
                             android:src="@mipmap/notebooklogo"
                             app:civ_border_color="@color/image_border"
-                            card_view:civ_circle_background_color="@color/text_hint"
                             app:civ_border_width="3dp"
-                            app:layout_constraintStart_toStartOf="parent" />
+                            app:layout_constraintStart_toStartOf="parent"
+                            card_view:civ_circle_background_color="@color/text_hint" />
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"

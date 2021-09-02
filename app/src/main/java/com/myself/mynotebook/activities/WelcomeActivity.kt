@@ -3,7 +3,6 @@ package com.myself.mynotebook.activities
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import androidx.appcompat.widget.AppCompatButton
 import com.myself.mynotebook.R
 
@@ -27,7 +26,7 @@ class WelcomeActivity : AppCompatActivity(){
 
     private fun clickEvent() {
         next_btn?.setOnClickListener {
-            var clickintent = Intent(this@WelcomeActivity, UaerCredetialsActivity::class.java)
+            var clickintent = Intent(this@WelcomeActivity, UserCredetialsActivity::class.java)
             startActivity(clickintent)
         }
     }
