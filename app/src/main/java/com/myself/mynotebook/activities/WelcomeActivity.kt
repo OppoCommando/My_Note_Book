@@ -26,7 +26,7 @@ class WelcomeActivity : AppCompatActivity(){
 
     private fun clickEvent() {
         next_btn?.setOnClickListener {
-            var clickintent = Intent(this@WelcomeActivity, UserCredetialsActivity::class.java)
+            var clickintent = Intent(this@WelcomeActivity, MainActivity::class.java)
             startActivity(clickintent)
         }
     }
