@@ -8,4 +8,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="swipe_left_for_register">Swipe left for rRegister</string>
     <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="my_note">My Notes</string>
+    <string name="my_account">Account</string>
+    <string name="profile">My Profile</string>
 </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/my_account"
+        >
+        <menu>
+            <item
+                android:id="@+id/my_notes"
+                android:title="@string/my_note"
+                android:icon="@drawable/ic_my_notes"
+                />
+            <item
+                android:id="@+id/my_profile"
+                android:title="@string/profile"
+                android:icon="@drawable/ic_profile"
+                />
+            <item
+                android:id="@+id/notes"
+                android:title="@string/my_note"
+                android:icon="@drawable/ic_my_notes"
+                />
+            <item
+                android:id="@+id/profile"
+                android:title="Profiles"
+                android:icon="@drawable/ic_profile"
+                />
+
+        </menu>
+
+    </item>
+
+</menu>

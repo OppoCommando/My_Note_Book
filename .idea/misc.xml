@@ -10,14 +10,21 @@
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_arrow_right.xml" value="0.2203125" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_eye_line.xml" value="0.2203125" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_eye_off_line.xml" value="0.2203125" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_home.xml" value="0.1935185185185185" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_menu_item.xml" value="0.11851851851851852" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_notification.xml" value="0.11296296296296296" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/ic_profile.xml" value="0.11296296296296296" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/navheader_background.xml" value="0.13148148148148148" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/rounded_rectangle.xml" value="0.11481481481481481" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/drawable/usercredentials_header_background.xml" value="0.12407407407407407" />
-        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/activity_main.xml" value="0.12658227848101267" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/activity_uaer_credetials.xml" value="0.1585144927536232" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/custom_snackbar_view.xml" value="0.14" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/fragment_login.xml" value="0.18" />
         <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/fragment_registration.xml" value="0.17391304347826086" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/layout/nava_heder.xml" value="0.17" />
+        <entry key="..\:/2021Projoect/APP_Project/MySelf/GitHubProject/MyNoteBook/app/src/main/res/menu/nav_item.xml" value="0.1537037037037037" />
       </map>
     </option>
   </component>
