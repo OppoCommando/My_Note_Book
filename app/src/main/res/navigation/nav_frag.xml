@@ -22,7 +22,7 @@
     <fragment
         android:id="@id/profile"
         android:name="com.myself.mynotebook.fragments.ProfilesFragment"
-        android:label="Notes"
+        android:label="Profiles"
         tools:layout="@layout/fragment_profiles" />
 
 </navigation>
