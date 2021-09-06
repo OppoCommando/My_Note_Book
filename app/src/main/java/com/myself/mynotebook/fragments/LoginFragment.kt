@@ -1,5 +1,6 @@
 package com.myself.mynotebook.fragments
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -7,6 +8,7 @@ import android.view.ViewGroup
 import androidx.appcompat.widget.AppCompatButton
 import androidx.fragment.app.Fragment
 import com.myself.mynotebook.R
+import com.myself.mynotebook.activities.MainActivity
 import com.myself.mynotebook.activities.UserCredetialsActivity
 
 class LoginFragment : Fragment() {
@@ -28,7 +30,9 @@ class LoginFragment : Fragment() {
 
     private fun clickEvent() {
         btn_login?.setOnClickListener(View.OnClickListener {
-           mActivity?.setSnackBar("Login Failed")
+            var clickintent = Intent(mActivity, MainActivity::class.java)
+            startActivity(clickintent)
+        //mActivity?.setSnackBar("Login Failed")
         })
     }
 
