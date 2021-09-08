@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         val navController = Navigation.findNavController(this,R.id.fragment)
         nav_myDawar?.let { NavigationUI.setupWithNavController(it,navController) }
         navController
-            .addOnDestinationChangedListener { controller, destination, arguments ->
+            .addOnDestinationChangedListener { _, destination, _ ->
                 txt_title?.text = destination.label
             }
     }

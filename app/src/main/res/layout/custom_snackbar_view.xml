@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         card_view:cardCornerRadius="15dp"
-        card_view:cardBackgroundColor="@color/button_gradient_end"
+        card_view:cardBackgroundColor="@color/snackber_bg"
         card_view:cardElevation="10dp">
 
         <RelativeLayout
