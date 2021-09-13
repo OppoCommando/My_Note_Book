@@ -17,7 +17,7 @@ class WelcomeActivity : AppCompatActivity(){
         setContentView(R.layout.activity_welcome)
         instance();
         clickEvent();
-
+//Submit
     }
 
     private fun instance() {
